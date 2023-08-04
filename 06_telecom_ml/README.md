@@ -10,7 +10,7 @@ There are preprocessed data about customer behavior who are already using the ta
 
 The task is to build a machine learning model to recommend the most beneficial tariff. Choose the model with the maximum accuracy, bringing the proportion of correct answers to at least 0.75.
 
-## [RUS] Рекомендация тарифов для телеком-компании
+## [RUS] Рекомендация тарифов мобильного оператора
 
 ### Задача проекта
 
