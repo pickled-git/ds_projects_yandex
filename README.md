@@ -7,8 +7,10 @@
 ## Сертификат
 На данный момент обучение завершено, сертификат в процессе оформления.
 
+![Certificate](certificate/cover_eng.jpg)
+
 ## Описание проектов
 
-| № | Project Name | Brief Description | Lib |
+| № | Проект | Описание | Библиотеки |
 |--|--|--|--|
 |1| [Яндекс.Музыка](https://github.com/Scoundrella/ds_projects_yandex/tree/main/01_yandex_music) | Исследование поведения пользователей Яндекс.Музыки двух столиц. | `pandas` |
