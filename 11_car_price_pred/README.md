@@ -10,7 +10,7 @@ Historical data from used car sales advertisements is available, including techn
 
 The client is interested in prediction quality, prediction speed, and training time.
 
-## [RUS] Определение стоимости автомобилей
+## [RUS] Определение рыночной стоимости автомобиля
 
 ### Задача проекта
 
