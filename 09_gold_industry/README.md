@@ -1,4 +1,4 @@
-## [EN] Predicting Gold Recovery Rate from Gold-Bearing Ore
+## [EN] Consolidated Project: Predicting Gold Recovery Rate from Gold-Bearing Ore
 
 ### Project Objective
 
@@ -8,7 +8,7 @@ The goal is to build a machine learning model to predict the concentration of go
 
 The task is to build a model that can predict the gold recovery rate from gold-bearing ore based on data with extraction and purification parameters. This model will aid in optimizing production to avoid starting an enterprise with unprofitable characteristics.
 
-## [RUS] Предсказывание коэффициента восстановления золота из золотосодержащей руды
+## [RUS] Сборный проект. Прогнозирование восстановления золота из руды
 
 ### Задача проекта
 
