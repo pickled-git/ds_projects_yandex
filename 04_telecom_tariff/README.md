@@ -15,7 +15,7 @@ The tasks include:
    - the average revenue from users of the two tariffs differs;
    - the average revenue from users in Moscow differs from the revenue of users from other regions.
 
-## [RUS] Определение перспективного тарифа для телеком-компании
+## [RUS] Анализ перспективности тарифов мобильного оператора
 
 ### Задача проекта
 
