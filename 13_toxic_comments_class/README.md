@@ -11,7 +11,7 @@ There is a dataset available with English language comments marked for toxicity.
 A model with an F1 score of at least 0.75 is required.
 
 
-## [RUS] Классификация текстовых комментариев
+## [RUS] Поиск токсичных комментариев
 
 ### Задача проекта
 
