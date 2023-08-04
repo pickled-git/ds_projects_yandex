@@ -1,24 +1,28 @@
-## [EN] Text Comment Classification
+## [EN] Taxi Order Forecasting
 
 ### Project Objective
 
-The goal is to construct a binary classification model for text comments to discern between positive and negative ones. The model should serve as a tool for detecting toxic comments for subsequent moderation.
+To build a model for predicting taxi demand for the next hour.
 
 ### Project Description
 
-There is a dataset available with English language comments marked for toxicity.
+Historical data on taxi orders at airports is available.
 
-A model with an F1 score of at least 0.75 is required.
+To attract more drivers during peak load times, it is necessary to predict the number of taxi orders for the next hour.
+
+The RMSE value on the test sample should not exceed 48.
 
 
-## [RUS] Классификация текстовых комментариев
+## [RUS] Прогнозирование количества заказов такси
 
 ### Задача проекта
 
-Построить модель бинарной классификации текстовых комментариев на позитивные и негативные. Модель должна стать инструментом детекции токсичных комментариев для их последующей модерации.
+Построить модель для прогнозирования спроса на такси на следующий час.
 
 ### Описание проекта
 
-Имеются набор данных с англоязычными комментариями с разметкой о их токсичности.
+Имеются исторические данные о заказах такси в аэропортах.
 
-Необходимо построить модель со значением метрики качества F1 не меньше 0.75.
+Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час.
+
+Значение метрики RMSE на тестовой выборке должно быть не больше 48.
